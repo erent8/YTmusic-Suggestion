@@ -1,5 +1,5 @@
 # YTmusic Suggestion
-
+-------------------------------------------------------------
 # YouTube Music Recommendation Tool
 
 This Python script uses the YouTube Data API to fetch random music recommendations. It tracks previously recommended songs to avoid duplicates and provides fresh suggestions every time.
@@ -43,7 +43,7 @@ This Python script uses the YouTube Data API to fetch random music recommendatio
 
 1. Run the script:
     ```bash
-    python main.py
+    yt.py
     ```
 
 2. The program will fetch and display a list of recommended songs:
